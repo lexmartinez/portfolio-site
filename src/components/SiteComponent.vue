@@ -74,6 +74,15 @@ export default {
     }
   }
 
+  @media only screen
+  and (min-device-width: 800px)
+  and (max-device-width: 1800px) {
+    .site-container {
+      width: 90vw;
+      margin-left: 5vw;
+    }
+  }
+
   body{
     background: #f4f4f4;
   }
