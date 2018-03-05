@@ -3,13 +3,15 @@
       <div class="container-fluid">
         <div class="container">
           <div class="row">
-            <div class="col-lg-12 text-right">
+            <div class="col-lg-12">
               <h1 class="hi">Hi, I'm Arlex Mart&iacute;nez!</h1>
-              <p>
+              <p class="text-right">
                 I'm a freelance full-stack developer based in Medell&iacute;n, CO, specialising in building web apps. The last two years i've been working as frontend developer at <a href="http://www.batteries911.com">Batteries911</a> .
                 I also expend my time learning new stuff mainly on Javascript/NodeJS - mobile apps world, interested on AI/ML too. <a href="https://www.lexmartinez.com/blog">Blog</a> writer, guitar enthusiast 🤘
               </p>
-              <a href="mailto:me@lexmartinez.com" class="btn btn-primary"><i class="fa fa-envelope"></i> Contact Me</a>
+              <div class="text-right">
+                <a href="mailto:me@lexmartinez.com" class="btn btn-primary"><i class="fa fa-envelope"></i> Contact Me</a>
+              </div>
               <div class="corner-ribbon top-right sticky blue shadow">Open for Hiring!</div>
             </div>
           </div>
@@ -53,12 +55,38 @@ export default {
     color: #DEDEDE;
     padding:10px;
     font-weight: bolder;
+    text-align: right;
   }
 
   .hero-header p {
     background-color:rgba(30,30,30,0.7);
     color: #DEDEDE;
     padding:15px;
+  }
+
+  @media only screen
+  and (min-device-width: 320px)
+  and (max-device-width: 480px)
+  and (-webkit-min-device-pixel-ratio: 2) {
+    .hero-header {
+      height: 80vh;
+    }
+
+    .hero-header h1.hi {
+      text-align: left;
+    }
+  }
+
+  @media only screen
+  and (min-device-width: 480px)
+  and (orientation: landscape) {
+    .hero-header {
+      height: 90vh;
+    }
+
+    .hero-header h1.hi {
+      text-align: left;
+    }
   }
 
   .corner-ribbon{
