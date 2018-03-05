@@ -69,7 +69,7 @@ export default {
   and (max-device-width: 480px)
   and (-webkit-min-device-pixel-ratio: 2) {
     .hero-header {
-      height: 80vh;
+      height: 100vh;
     }
 
     .hero-header h1.hi {
@@ -78,10 +78,12 @@ export default {
   }
 
   @media only screen
-  and (min-device-width: 480px)
+  and (min-device-width: 320px)
+  and (max-device-width: 800px)
+  and (-webkit-min-device-pixel-ratio: 2)
   and (orientation: landscape) {
     .hero-header {
-      height: 90vh;
+      height: 100vh;
     }
 
     .hero-header h1.hi {
