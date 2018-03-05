@@ -4,7 +4,7 @@
         <div class="container">
           <div class="row">
             <div class="col-lg-12">
-              <h1 class="hi">Hi, I'm Arlex Mart&iacute;nez!</h1>
+              <h1 class="hi">Hi, I'm Lex Mart&iacute;nez!</h1>
               <p class="text-right">
                 I'm a freelance full-stack developer based in Medell&iacute;n, CO, specialising in building web apps. The last two years i've been working as frontend developer at <a href="http://www.batteries911.com">Batteries911</a> .
                 I also expend my time learning new stuff mainly on Javascript/NodeJS - mobile apps world, interested on AI/ML too. <a href="https://www.lexmartinez.com/blog">Blog</a> writer, guitar enthusiast 🤘
