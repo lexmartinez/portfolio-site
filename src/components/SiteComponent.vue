@@ -7,9 +7,7 @@
           <div class="card">
             <h2 class="card-title">Latest Projects</h2>
           </div>
-          <div class="card">
-            <h2 class="card-title">Work Experience</h2>
-          </div>
+          <work-experience></work-experience>
           <div class="card">
             <h2 class="card-title">GitHub Activity</h2>
           </div>
@@ -33,10 +31,11 @@ import Spotify from './content/SpotifyComponent'
 import ContactInfo from './content/InfoComponent'
 import BlogPosts from './content/BlogComponent'
 import Skills from './content/SkillsComponent'
+import WorkExperience from './content/ExperienceComponent'
 
 export default {
   name: 'SiteComponent',
-  components: { SiteHeader, SiteFooter, Spotify, ContactInfo, BlogPosts, Skills },
+  components: { SiteHeader, SiteFooter, Spotify, ContactInfo, BlogPosts, Skills, WorkExperience },
   resource: 'SiteComponent'
 }
 </script>
