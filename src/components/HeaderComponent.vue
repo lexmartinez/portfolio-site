@@ -114,6 +114,7 @@ export default {
     color: #f0f0f0;
     transform: rotate(-45deg);
     -webkit-transform: rotate(-45deg);
+    font-weight: 700;
   }
 
   .corner-ribbon.sticky{
