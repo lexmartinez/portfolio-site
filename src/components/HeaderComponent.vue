@@ -75,6 +75,11 @@ export default {
     .hero-header h1.hi {
       text-align: left;
     }
+
+    .corner-ribbon.top-right{
+      top: 40px;
+      right: -50px;
+    }
   }
 
   @media only screen
@@ -88,6 +93,11 @@ export default {
 
     .hero-header h1.hi {
       text-align: left;
+    }
+
+    .corner-ribbon.top-right{
+      top: 40px;
+      right: -50px;
     }
   }
 
