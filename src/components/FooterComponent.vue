@@ -50,8 +50,8 @@ export default {
   and (min-device-width: 320px)
   and (max-device-width: 480px)
   and (-webkit-min-device-pixel-ratio: 2) {
-    .footer-links a {
-      font-size: 12pt;
+    .footer-links a.fa-twitter {
+      visibility: hidden;
     }
   }
 
