@@ -51,7 +51,7 @@ export default {
   and (max-device-width: 480px)
   and (-webkit-min-device-pixel-ratio: 2) {
     .footer-links a {
-      font-size: 13pt;
+      font-size: 12pt;
     }
   }
 
