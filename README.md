@@ -6,7 +6,7 @@
 [![vueJS version](https://img.shields.io/badge/vueJS-v2.9.3-green.svg)](https://vuejs.org/)
 [![GitHub license](https://img.shields.io/github/license/lexmartinez/portfolio-site.svg)](https://github.com/lexmartinez/portfolio-site/blob/master/LICENSE.md)
 <br/><br/>
-:briefcase: Personal portfolio site
+:briefcase: Personal portfolio site built on VueJS
 
 ### Quick start
 
@@ -49,7 +49,7 @@ go to [http://localhost:8080](http://localhost:8080) in your browser.
 
  ## Testing
  
- `vue-blog-ui` has an [ESLint](https://eslint.org/) integration for consistent code inspection, you can run that tool with command:
+ `portfolio-site` has an [ESLint](https://eslint.org/) integration for consistent code inspection, you can run that tool with command:
  
  * `npm test`
  
