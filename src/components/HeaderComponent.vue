@@ -27,7 +27,7 @@ export default {
 }
 </script>
 
-<style>
+<style scoped>
   .hero-header {
     width: 100vw;
     height: 70vh;

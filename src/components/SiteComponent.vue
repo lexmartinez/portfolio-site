@@ -4,20 +4,42 @@
     <div class="site-container">
       <div class="row">
         <div class="col-md-8">
+          <div class="card">
+            <h2 class="card-title">Latest Projects</h2>
+          </div>
+          <div class="card">
+            <h2 class="card-title">Work Experience</h2>
+          </div>
+          <div class="card">
+            <h2 class="card-title">GitHub Activity</h2>
+          </div>
         </div>
         <div class="col-md-4">
+          <div class="card">
+            <br/>
+          </div>
+          <div class="card">
+            <h2 class="card-title">Skills</h2>
+          </div>
+          <div class="card">
+            <h2 class="card-title">Latest Blog Post</h2>
+          </div>
+          <spotify></spotify>
         </div>
       </div>
     </div>
+    <site-footer></site-footer>
   </div>
 </template>
 
 <script>
 import SiteHeader from './HeaderComponent'
+import SiteFooter from './FooterComponent'
+import Spotify from './content/SpotifyComponent'
 
 export default {
   name: 'SiteComponent',
-  components: { SiteHeader },
+  components: { SiteHeader, SiteFooter, Spotify },
   resource: 'SiteComponent'
 }
 </script>
