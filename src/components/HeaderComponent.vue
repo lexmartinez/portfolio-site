@@ -31,9 +31,10 @@ export default {
   .hero-header {
     width: 100vw;
     height: 50vh;
-    background-image: url('https://images.pexels.com/photos/276452/pexels-photo-276452.jpeg?w=1260&h=750&auto=compress&cs=tinysrgb');
+    background-image: url('/static/images/header-bg.jpeg');
     background-repeat: no-repeat;
     background-size: cover;
+    background-position-y: center;
     border-bottom: 1px solid #989898;
     border-top: 10px solid #505050;
     font-family: 'Raleway', sans-serif;
