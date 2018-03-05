@@ -51,7 +51,7 @@ export default {
   and (max-device-width: 480px)
   and (-webkit-min-device-pixel-ratio: 2) {
     .footer-links a.fa-twitter {
-      visibility: hidden;
+      display: none;
     }
   }
 
