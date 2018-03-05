@@ -78,4 +78,25 @@ export default {
   body{
     background: #f4f4f4;
   }
+
+  .card {
+    display: inline-block;
+    margin: 1rem !important;
+    position: relative;
+    width: 100%;
+    border-radius: 0px !important;
+  }
+
+  h2.card-title {
+    font-family: 'Raleway', sans-serif;
+    color: #383838;
+    margin: 20px;
+    margin-bottom: 10px;
+    font-weight: bold;
+  }
+
+  .card-body {
+    padding-left: 20px;
+    width: 100%;
+  }
 </style>
