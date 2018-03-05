@@ -16,9 +16,7 @@
         </div>
         <div class="col-md-4">
           <contact-info></contact-info>
-          <div class="card">
-            <h2 class="card-title">Skills</h2>
-          </div>
+          <skills></skills>
           <blog-posts></blog-posts>
           <spotify></spotify>
         </div>
@@ -34,10 +32,11 @@ import SiteFooter from './FooterComponent'
 import Spotify from './content/SpotifyComponent'
 import ContactInfo from './content/InfoComponent'
 import BlogPosts from './content/BlogComponent'
+import Skills from './content/SkillsComponent'
 
 export default {
   name: 'SiteComponent',
-  components: { SiteHeader, SiteFooter, Spotify, ContactInfo, BlogPosts },
+  components: { SiteHeader, SiteFooter, Spotify, ContactInfo, BlogPosts, Skills },
   resource: 'SiteComponent'
 }
 </script>
