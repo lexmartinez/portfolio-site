@@ -30,7 +30,7 @@ export default {
 <style>
   .hero-header {
     width: 100vw;
-    height: 50vh;
+    height: 70vh;
     background-image: url('/static/images/header-bg.jpeg');
     background-repeat: no-repeat;
     background-size: cover;

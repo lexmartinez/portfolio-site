@@ -1,4 +1,12 @@
 html, body {
   font-family: 'Raleway', sans-serif;
-  background-color: #f4f4f4;
+  background: #f4f4f4;
+}
+
+.card {
+  display: inline-block;
+  margin: 1rem;
+  position: relative;
+  width: 100%;
+  border-radius: 0px !important;
 }
