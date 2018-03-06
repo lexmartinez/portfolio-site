@@ -5,7 +5,7 @@
       <p><i class="fa fa-envelope info-item"></i> <a href="mailto:me@lexmartinez.com">me@lexmartinez.com</a></p>
       <p><i class="fa fa-github-alt info-item"></i> <a href="https://github.com/lexmartinez">github.com/lexmartinez</a></p>
       <p><i class="fa fa-money info-item"></i> $25 USD/hour</p>
-      <a class="btn btn-danger pull-right"><i class="fa fa-file-pdf-o"></i> Download CV</a>
+      <a class="btn btn-danger pull-right" href="/static/lexmartinz-cv.pdf" target="_blank"><i class="fa fa-file-pdf-o"></i> Download CV</a>
     </div>
   </div>
 </template>

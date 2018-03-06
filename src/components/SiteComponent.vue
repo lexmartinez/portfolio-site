@@ -6,7 +6,7 @@
         <div class="col-md-8">
           <projects></projects>
           <work-experience></work-experience>
-           <!--<github-feed></github-feed>-->
+          <github-feed></github-feed>
         </div>
         <div class="col-md-4">
           <contact-info></contact-info>
