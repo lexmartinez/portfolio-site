@@ -49,7 +49,7 @@
               <img src="https://github.com/lexmartinez/ocr-electron-vue/raw/master/screenshots/demo.gif" width="100%"/>
             </div>
             <div class="col-md-8">
-              <span class="title"><strong>ocr-electron-vue</strong></span> <span class="badge badge-info pull-right">Open Source</span>
+              <span class="title"><strong>ocr-electron-vue</strong></span> <span class="badge badge-info oss-tag pull-right">Open Source</span>
               <p class="description">Simple desktop OCR App built with Electron, Vue.js & Tesseract.js as part of my Vue/Electron learning trip.</p>
               <a href="https://github.com/lexmartinez/ocr-electron-vue" target="_blank" class="btn btn-warning pull-right"><i class="fa fa-github"></i> VIEW ON GITHUB</a>
             </div>
@@ -85,5 +85,11 @@ export default {
 .list-group-item img {
   border: 1px solid rgba(0,0,0,.125);
 }
-
+@media only screen
+and (min-device-width: 320px)
+and (max-device-width: 480px) {
+  .oss-tag {
+    display: none;
+  }
+}
 </style>
