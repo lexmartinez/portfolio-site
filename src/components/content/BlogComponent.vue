@@ -7,7 +7,7 @@
           <ul class="list-group list-group-flush">
             <li class="list-group-item" v-for="post in posts" :key="post.key">
               <span><a :href="post.shortUrl" target="_blank">{{post.title}}</a>
-                <p class="date pull-right">{{post.publishedAt | moment("MMMM DD, YYYY")}}</p>
+                <p class="date pull-right">{{post.publishedAt | moment("MMM DD, YYYY")}}</p>
               </span>
             </li>
           </ul>

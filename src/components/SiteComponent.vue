@@ -4,13 +4,9 @@
     <div class="site-container">
       <div class="row">
         <div class="col-md-8">
-          <div class="card">
-            <h2 class="card-title">Latest Projects</h2>
-          </div>
+          <projects></projects>
           <work-experience></work-experience>
-          <div class="card">
-            <h2 class="card-title">GitHub Activity</h2>
-          </div>
+           <!--<github-feed></github-feed>-->
         </div>
         <div class="col-md-4">
           <contact-info></contact-info>
@@ -32,10 +28,12 @@ import ContactInfo from './content/InfoComponent'
 import BlogPosts from './content/BlogComponent'
 import Skills from './content/SkillsComponent'
 import WorkExperience from './content/ExperienceComponent'
+import GithubFeed from './content/GitHubComponent'
+import Projects from './content/ProjectsComponent'
 
 export default {
   name: 'SiteComponent',
-  components: { SiteHeader, SiteFooter, Spotify, ContactInfo, BlogPosts, Skills, WorkExperience },
+  components: { SiteHeader, SiteFooter, Spotify, ContactInfo, BlogPosts, Skills, WorkExperience, GithubFeed, Projects },
   resource: 'SiteComponent'
 }
 </script>
