@@ -12,7 +12,7 @@
               <div class="text-center">
                 <a href="mailto:me@lexmartinez.com" class="btn btn-primary"><i class="fa fa-envelope"></i> Contact Me</a>
               </div>
-              <div class="corner-ribbon top-right sticky blue shadow">Open for Hiring!</div>
+             <!-- <div class="corner-ribbon top-right sticky blue shadow">Open for Hiring!</div>-->
             </div>
           </div>
         </div>
