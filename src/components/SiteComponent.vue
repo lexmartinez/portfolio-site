@@ -6,6 +6,12 @@
         <div class="col-md-8">
           <projects></projects>
           <work-experience></work-experience>
+          <div class="card">
+            <h2 class="card-title">GitHub Activity</h2>
+            <div class="card-body">
+              <github-feed login="lexmartinez"></github-feed>
+            </div>
+          </div>
         </div>
         <div class="col-md-4">
           <contact-info></contact-info>
@@ -28,10 +34,11 @@ import BlogPosts from './content/BlogComponent'
 import Skills from './content/SkillsComponent'
 import WorkExperience from './content/ExperienceComponent'
 import Projects from './content/ProjectsComponent'
+import GithubFeed from 'vue-github-activity'
 
 export default {
   name: 'SiteComponent',
-  components: { SiteHeader, SiteFooter, Spotify, ContactInfo, BlogPosts, Skills, WorkExperience, Projects },
+  components: { SiteHeader, SiteFooter, Spotify, ContactInfo, BlogPosts, Skills, WorkExperience, Projects, GithubFeed },
   resource: 'SiteComponent'
 }
 </script>
