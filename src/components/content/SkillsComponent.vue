@@ -45,9 +45,9 @@
       </div>
 
       <div class="skill-container">
-        <p class="label"><span class="skill">Vue.js</span> <span class="pull-right level2">Actively learning</span></p>
+        <p class="label"><span class="skill">Vue.js</span> <span class="pull-right level2">Semi-Pro</span></p>
         <div class="progress">
-          <div class="progress-bar progress-bar-striped bg-info" role="progressbar" style="width: 53%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
+          <div class="progress-bar progress-bar-striped bg-info" role="progressbar" style="width: 63%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
         </div>
       </div>
 

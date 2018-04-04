@@ -46,6 +46,21 @@
         <li class="list-group-item">
           <div class="row">
             <div class="col-md-4">
+              <img src="https://github.com/lexmartinez/vue-github-activity/raw/master/dist/screenshot.png" width="100%"/>
+            </div>
+            <div class="col-md-8">
+              <span class="title"><strong>vue-github-activity</strong></span> <span class="badge badge-info oss-tag pull-right">Open Source</span>
+              <p class="description">A VueJS component that creates a feed panel with your recent GitHub activity. It displays the user's name, username, photo, and a list of each individual activity type. (Used in this website, see bellow).</p>
+             <div class="pull-right">
+               <a href="https://www.npmjs.com/package/vue-github-activity" target="_blank" class="btn btn-danger"><i class="fa fa-cube"></i> VIEW ON NPM</a>
+               <a href="https://github.com/lexmartinez/vue-github-activity" target="_blank" class="btn btn-warning"><i class="fa fa-github"></i> VIEW ON GITHUB</a>
+             </div>
+            </div>
+          </div>
+        </li>
+        <li class="list-group-item">
+          <div class="row">
+            <div class="col-md-4">
               <img src="https://github.com/lexmartinez/ocr-electron-vue/raw/master/screenshots/demo.gif" width="100%"/>
             </div>
             <div class="col-md-8">
