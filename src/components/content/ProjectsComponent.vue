@@ -46,7 +46,7 @@
         <li class="list-group-item">
           <div class="row">
             <div class="col-md-4">
-              <img src="https://github.com/lexmartinez/vue-github-activity/raw/master/dist/screenshot.png" width="100%"/>
+              <img src="https://github.com/lexmartinez/vue-github-activity/raw/master/screenshot.png" width="100%"/>
             </div>
             <div class="col-md-8">
               <span class="title"><strong>vue-github-activity</strong></span> <span class="badge badge-info oss-tag pull-right">Open Source</span>
