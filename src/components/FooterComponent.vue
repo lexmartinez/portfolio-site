@@ -7,7 +7,6 @@
           <a class="fa fa-envelope" href="mailto:me@lexmartinez.com" target="_blank"></a> &nbsp;
           <a class="fa fa-github-alt" href="https://github.com/lexmartinez" target="_blank"></a> &nbsp;
           <span class="twitter-icon"><a class="fa fa-twitter" href="https://twitter.com/lex0316" target="_blank"></a> &nbsp;</span>
-          <a class="fa fa-linkedin-square" href="https://www.linkedin.com/in/arlex-martinez-6256a4153/" target="_blank"></a>
         </span>
       </div>
     </div>
