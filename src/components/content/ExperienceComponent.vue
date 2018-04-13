@@ -4,11 +4,6 @@
     <div class="card-body">
       <ul class="list-group list-group-flush">
         <li class="list-group-item">
-          <span class="title"><strong>Web UI Developer SSr Adv. - </strong> <span class="subtitle"> Globant (Mar 2018 - Present)</span></span>
-          <p class="description">Working on different projects with technologies like Angular and Electron.</p>
-        </li>
-
-        <li class="list-group-item">
           <span class="title"><strong>Freelance Front End Developer - </strong> <span class="subtitle"> Batteries 911 (Oct 2016 - Mar 2018)</span></span>
           <p class="description">As part of front-end team working on design and implementation of web dashboard of the company for services management, using Angular and NodeJS for that.</p>
         </li>
