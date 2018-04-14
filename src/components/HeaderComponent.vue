@@ -11,7 +11,7 @@
               </p>
               <div class="text-center">
                 <a href="mailto:me@lexmartinez.com" class="btn btn-primary"><i class="fa fa-envelope"></i> Contact Me</a>
-                <a href="https://lexmartinez.com/blog" target="_blank" class="btn btn-warning"><i class="fa fa-rss-square"></i> Blog</a>
+                <a href="https://lexmartinez.com/blog" target="_blank" class="btn btn-warning"><i class="fa fa-rss-square"></i> See Blog</a>
               </div>
              <!-- <div class="corner-ribbon top-right sticky blue shadow">Open for Hiring!</div>-->
             </div>
