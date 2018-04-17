@@ -6,7 +6,7 @@
             <div class="col-lg-12">
               <h1 class="hi">Hi, I'm Lex Mart&iacute;nez!</h1>
               <p class="text-center">
-                I'm a full-stack developer based in Medell&iacute;n, CO, specialized in building web/mobile apps. The last two years i've been working as frontend developer, currently Mobile Developer SSR at <a href="https://www.almundo.com/" target="_blank">Almundo.com</a> .
+                I'm a full-stack developer based in Medell&iacute;n, CO, specialized in building web/mobile apps. The last two years i've been working as frontend developer, currently Mobile Developer SSR at <a href="https://www.almundo.com/" target="_blank">Almundo</a> .
                 I also expend my time learning new stuff mainly on Javascript/NodeJS - mobile apps world, interested in AI/ML too. <a href="https://www.lexmartinez.com/blog">Blog</a> writer, guitar enthusiast 🤘
               </p>
               <div class="text-center">
