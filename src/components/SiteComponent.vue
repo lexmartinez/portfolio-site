@@ -34,11 +34,10 @@ import BlogPosts from './content/BlogComponent'
 import Skills from './content/SkillsComponent'
 import WorkExperience from './content/ExperienceComponent'
 import Projects from './content/ProjectsComponent'
-import GithubFeed from 'vue-github-activity'
 
 export default {
   name: 'SiteComponent',
-  components: { SiteHeader, SiteFooter, Spotify, ContactInfo, BlogPosts, Skills, WorkExperience, Projects, GithubFeed },
+  components: { SiteHeader, SiteFooter, Spotify, ContactInfo, BlogPosts, Skills, WorkExperience, Projects },
   resource: 'SiteComponent'
 }
 </script>
