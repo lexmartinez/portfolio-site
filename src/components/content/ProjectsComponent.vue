@@ -35,11 +35,14 @@
         <li class="list-group-item">
           <div class="row">
             <div class="col-md-4">
-              <img src="/static/images/orbita-mtto-screenshot.jpg" width="100%"/>
+              <img src="https://github.com/lexmartinez/planning-poker/raw/master/screenshots/screenshot-2.png" width="100%"/>
             </div>
             <div class="col-md-8">
-              <span class="title"><strong>Medical Equipment Maintenance Suite - </strong> <span class="subtitle"> &Oacute;rbita SAS</span></span>
-              <p class="description">Complete web-based app that allows the operative team of clinics or medic maintenance business, schedule and manage all equipment maintenance flow.  Built with Spring and Bootstrap.</p>
+              <span class="title"><strong>Planify (planning-poker)</strong></span> <span class="badge badge-info oss-tag pull-right">Open Source</span>
+              <p class="description">Planning Poker® Desktop application built with Electron, React, Redux & Typescript, allow invite team members, and manage user stories and estimation.</p>
+             <div class="pull-right">
+               <a href="https://github.com/lexmartinez/planning-poker" target="_blank" class="btn btn-warning"><i class="fa fa-github"></i> VIEW ON GITHUB</a>
+             </div>
             </div>
           </div>
         </li>
