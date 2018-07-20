@@ -4,6 +4,11 @@
     <div class="card-body">
       <ul class="list-group list-group-flush">
         <li class="list-group-item">
+          <span class="title"><strong>Mobile Developer SSR - </strong> <span class="subtitle"> Almundo (Apr 2018 - Current)</span></span>
+          <p class="description">As member of mobile team we are in charge to maintain and develop new features on Almundo mobile app, working with React Native and NodeJS.</p>
+        </li>
+
+        <li class="list-group-item">
           <span class="title"><strong>Freelance Front End Developer - </strong> <span class="subtitle"> Batteries 911 (Oct 2016 - Mar 2018)</span></span>
           <p class="description">As part of front-end team working on design and implementation of web dashboard of the company for services management, using Angular and NodeJS for that.</p>
         </li>
