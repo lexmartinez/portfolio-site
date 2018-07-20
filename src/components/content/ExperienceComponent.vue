@@ -4,7 +4,7 @@
     <div class="card-body">
       <ul class="list-group list-group-flush">
         <li class="list-group-item">
-          <span class="title"><strong>Mobile Developer SSR - </strong> <span class="subtitle"> Almundo (Apr 2018 - Current)</span></span>
+          <span class="title"><strong>Mobile Developer SSR - </strong> <span class="subtitle"> Almundo (Apr 2018 - Currently)</span></span>
           <p class="description">As member of mobile team we are in charge to maintain and develop new features on Almundo mobile app, working with React Native and NodeJS.</p>
         </li>
 
