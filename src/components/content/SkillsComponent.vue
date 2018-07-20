@@ -33,14 +33,14 @@
       <div class="skill-container">
         <p class="label"><span class="skill">Electron</span> <span class="pull-right level2">Semi-Pro</span></p>
         <div class="progress">
-          <div class="progress-bar progress-bar-striped bg-info" role="progressbar" style="width: 60%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
+          <div class="progress-bar progress-bar-striped bg-info" role="progressbar" style="width: 70%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
         </div>
       </div>
 
       <div class="skill-container">
-        <p class="label"><span class="skill">React, React Native</span> <span class="pull-right level2">Semi-Pro</span></p>
+        <p class="label"><span class="skill">React, React Native</span> <span class="pull-right level">Pro</span></p>
         <div class="progress">
-          <div class="progress-bar progress-bar-striped bg-info" role="progressbar" style="width: 61%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
+          <div class="progress-bar progress-bar-striped bg-info" role="progressbar" style="width: 75%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
         </div>
       </div>
 
