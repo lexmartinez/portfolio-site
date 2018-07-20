@@ -1,10 +1,8 @@
 # portfolio-site
 
-[![Build Status](https://travis-ci.org/lexmartinez/portfolio-site.svg?branch=master)](https://travis-ci.org/lexmartinez/portfolio-site)
-[![NodeJS version](https://img.shields.io/badge/node-v8.9.4-green.svg)](https://nodejs.org/es/)
-[![NPM version](https://img.shields.io/badge/npm-v5.6.0-red.svg)](https://www.npmjs.com/)
-[![vueJS version](https://img.shields.io/badge/vueJS-v2.9.3-green.svg)](https://vuejs.org/)
-[![GitHub license](https://img.shields.io/github/license/lexmartinez/portfolio-site.svg)](https://github.com/lexmartinez/portfolio-site/blob/master/LICENSE.md)
+[![Build Status](https://img.shields.io/travis/lexmartinez/portfolio-site/master.svg?style=for-the-badge)](https://travis-ci.org/lexmartinez/portfolio-site)
+[![GitHub license](https://img.shields.io/github/license/lexmartinez/portfolio-site.svg?style=for-the-badge)](https://github.com/lexmartinez/portfolio-site/blob/master/LICENSE.md)
+[![Last version](https://img.shields.io/badge/version-v1.0.0-blue.svg?style=for-the-badge)](https://github.com/lexmartinez/portfolio-site/blob/master/README.md)
 <br/><br/>
 :briefcase: Personal portfolio site built on VueJS
 
