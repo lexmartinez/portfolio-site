@@ -35,6 +35,20 @@
         <li class="list-group-item">
           <div class="row">
             <div class="col-md-4">
+              <img src="/static/images/tomahawk-screenshot.jpg" width="100%"/>
+            </div>
+            <div class="col-md-8">
+              <span class="title"><strong>Tomahawk</strong></span> <span class="badge badge-info oss-tag pull-right">Open Source</span>
+              <p class="description">A mobile video game library app, using IGDB API and built with React Native and Redux</p>
+              <div class="pull-right">
+                <a href="https://github.com/lexmartinez/tomahawk-app" target="_blank" class="btn btn-warning"><i class="fa fa-github"></i> VIEW ON GITHUB</a>
+              </div>
+            </div>
+          </div>
+        </li>
+        <li class="list-group-item">
+          <div class="row">
+            <div class="col-md-4">
               <img src="https://github.com/lexmartinez/planning-poker/raw/master/screenshots/screenshot-2.png" width="100%"/>
             </div>
             <div class="col-md-8">
