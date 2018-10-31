@@ -53,7 +53,7 @@ export default {
   }
 
   .hero-header h1.hi {
-    background-color:rgba(45,45,45,0.7);
+    background-color:rgba(33, 35, 51, 0.7);
     color: #DEDEDE;
     padding:10px;
     font-weight: bolder;
@@ -61,7 +61,7 @@ export default {
   }
 
   .hero-header p {
-    background-color:rgba(30,30,30,0.7);
+    background-color:rgba(33, 35, 51, 0.7);
     color: #DEDEDE;
     padding:15px;
   }
