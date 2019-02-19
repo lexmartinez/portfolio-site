@@ -8,7 +8,7 @@
           <br/><br/>
           <img src="/static/images/academico-screenshot.jpg" width="100%"/>
           <br/><br/>
-          <p class="description">Fullstack Web application that allows students and instructors of Staff Academy handle them courses, tasks and knowledge. The front-end was built with Angular and back-end RESTful services with Java - Spring.</p>
+          <p class="description">Fullstack Web application that allows students and instructors of Staff Academy handle them courses, tasks and knowledge. The front-end was built with ReactJS and back-end RESTful services with Java - Spring.</p>
         </li>
         <li class="list-group-item">
           <div class="row">
